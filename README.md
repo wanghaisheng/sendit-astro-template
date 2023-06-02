@@ -56,3 +56,26 @@ Sendit is set up for adding, updating and removing pages, components, posts, por
 - Theme colors can be set in _Data_ / _Theme_
 - The main colors are set and variants of them are computed
 - The colors will update on the next build
+
+
+
+## Authoring Content
+
+
+https://docs.astro.build/en/guides/content/
+
+
+### direct add/edit md in this repo ,**src/content**
+
+
+
+### use cms
+
+
+####  Git-based or JAMStack CMSs in the market NetlifyCMS and Forestry(or TinaCMS) are two of the most popular CMS that can go with git-based content.
+
+* NetlifyCMS
+
+
+#### traditional cms
+
